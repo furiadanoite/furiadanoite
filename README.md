@@ -1,12 +1,8 @@
--#sobre mim
+#sobre mim
 -  👋 ola seu nome é @furiadanoite
-- seu email de contato éestudante.alura@gemail.com.br
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Meu email de contato éestudante.alura@gemail.com.br
+- 👀 Eu estou interessadem aprender a programar novas linguagens.
+- 🌱 Eu estou aprendenda programar resentemente a linguagem de JavaScript e Scratch
+- 
+- 
 
-
-furiadanoite/furiadanoite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
